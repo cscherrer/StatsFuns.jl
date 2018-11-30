@@ -1,8 +1,8 @@
 # functions related to Poisson distribution
 
 import .RFunctions:
-    poispdf,
-    poislogpdf,
+    # poispdf,
+    # poislogpdf,
     poiscdf,
     poisccdf,
     poislogcdf,

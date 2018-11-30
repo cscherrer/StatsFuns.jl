@@ -1,8 +1,8 @@
 # functions related to beta distributions
 
 import .RFunctions:
-    betapdf,
-    betalogpdf,
+    # betapdf,
+    # betalogpdf,
     betacdf,
     betaccdf,
     betalogcdf,

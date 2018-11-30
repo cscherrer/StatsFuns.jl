@@ -1,8 +1,8 @@
 # functions related to F distribution
 
 import .RFunctions:
-    fdistpdf,
-    fdistlogpdf,
+    # fdistpdf,
+    # fdistlogpdf,
     fdistcdf,
     fdistccdf,
     fdistlogcdf,

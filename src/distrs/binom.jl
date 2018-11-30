@@ -1,8 +1,8 @@
 # functions related to binomial distribution
 
 import .RFunctions:
-    binompdf,
-    binomlogpdf,
+    # binompdf,
+    # binomlogpdf,
     binomcdf,
     binomccdf,
     binomlogcdf,

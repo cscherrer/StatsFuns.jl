@@ -1,8 +1,8 @@
 # functions related to chi-square distribution
 
 import .RFunctions:
-    chisqpdf,
-    chisqlogpdf,
+    # chisqpdf,
+    # chisqlogpdf,
     chisqcdf,
     chisqccdf,
     chisqlogcdf,

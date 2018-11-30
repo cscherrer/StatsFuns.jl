@@ -1,8 +1,8 @@
 # functions related to student's T distribution
 
 import .RFunctions:
-    tdistpdf,
-    tdistlogpdf,
+    # tdistpdf,
+    # tdistlogpdf,
     tdistcdf,
     tdistccdf,
     tdistlogcdf,
